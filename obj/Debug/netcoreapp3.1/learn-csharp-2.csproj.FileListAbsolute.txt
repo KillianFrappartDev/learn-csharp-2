@@ -1,0 +1,13 @@
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/bin/Debug/netcoreapp3.1/learn-csharp-2
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/bin/Debug/netcoreapp3.1/learn-csharp-2.deps.json
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/bin/Debug/netcoreapp3.1/learn-csharp-2.runtimeconfig.json
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/bin/Debug/netcoreapp3.1/learn-csharp-2.runtimeconfig.dev.json
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/bin/Debug/netcoreapp3.1/learn-csharp-2.dll
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/bin/Debug/netcoreapp3.1/learn-csharp-2.pdb
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.csprojAssemblyReference.cache
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.AssemblyInfoInputs.cache
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.AssemblyInfo.cs
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.csproj.CoreCompileInputs.cache
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.dll
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.pdb
+/home/killianfrappart/Dev/CSharp/learn-csharp-2/obj/Debug/netcoreapp3.1/learn-csharp-2.genruntimeconfig.cache
